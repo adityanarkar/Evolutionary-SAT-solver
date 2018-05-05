@@ -135,5 +135,5 @@ def printSat(assign) {
 
 getData()
 clauses.unique()
-println(" c done")
+println("c done")
 businessLogic()
